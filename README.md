@@ -11,8 +11,6 @@ SheetDiff helps users quickly identify added, deleted, and modified data through
 - Visual difference highlighting
 - Key-column based matching
 - Aligned row comparison
-- Export comparison results to Excel
-- Dark and Light mode support
 - Built with CustomTkinter and Pandas
 
 ## Installation
