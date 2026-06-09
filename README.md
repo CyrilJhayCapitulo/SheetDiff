@@ -56,6 +56,10 @@ pip install -r requirements.txt
 | Light Yellow | Modified Row |
 | Red | Added/Deleted Row |
 
+## Screenshot
+
+![SheetDiff](screenshots/sheetdiff_demo.png)
+
 ## Project Structure
 
 ```text
