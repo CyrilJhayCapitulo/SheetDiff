@@ -526,8 +526,18 @@ if __name__ == "__main__":
     ctk.set_appearance_mode("dark")
     ctk.set_default_color_theme("blue")
 
+    import ctypes
+
+    myappid = "sheetdiff.v1.0"
+    ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(
+        myappid
+    )
+
     root = ctk.CTk()
+    root.iconbitmap("SheetDiffLogo.ico")
     root.state("zoomed")
+
+
 
     app = ExcelComparisonTool(root)
 
