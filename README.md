@@ -1,8 +1,18 @@
-# SheetDiff
 
-A modern desktop application for comparing Excel spreadsheets side-by-side.
+<h1 align="center">
+  <img src="SheetDiffLogoPNG.png" width="48" valign="middle">
+  SheetDiff
+</h1>
 
-SheetDiff helps users quickly identify added, deleted, and modified data through visual highlighting and exportable comparison reports.
+<p align="center">
+  Compare spreadsheets with confidence.
+</p>
+
+<p align="center">
+  A modern desktop application for comparing Excel spreadsheets side-by-side.
+</p>
+
+---
 
 ## Features
 
