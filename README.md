@@ -1,14 +1,14 @@
 
-<h1 align="center">
+<h1 align="left">
   <img src="SheetDiffLogoPNG.png" width="48" valign="middle">
   SheetDiff
 </h1>
 
-<p align="center">
+<p align="left">
   Compare spreadsheets with confidence.
 </p>
 
-<p align="center">
+<p align="left">
   A modern desktop application for comparing Excel spreadsheets side-by-side.
 </p>
 
