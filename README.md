@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ## Screenshot
 
-![SheetDiff](screenshots/sheetdiff_demo.png)
+![SheetDiff](sheetdiff_demo.png)
 
 ## Project Structure
 
