@@ -1,0 +1,4 @@
+customtkinter v5.2.2
+pandas v2.2.0
+openpyxl v3.1.2
+tksheet v7.0.0
